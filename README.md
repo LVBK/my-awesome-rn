@@ -10,6 +10,10 @@
 
 ### Config
 
+### Localization
+
+* [react-i18next](https://github.com/i18next/react-i18next)
+
 ### Screenshot makers
 
 * [appstorescreenshot](https://www.appstorescreenshot.com/)
